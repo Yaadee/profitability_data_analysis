@@ -1,3 +1,5 @@
 venv/
 .vscode/
 .idea
+src/
+clustered_data.csv

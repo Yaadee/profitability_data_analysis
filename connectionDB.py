@@ -1,7 +1,7 @@
 import psycopg2
 from psycopg2 import OperationalError
 # Define connection parameters
-dbname = "telecomdb"
+dbname = "clusteredData"
 user = "postgres"
 password = "admin"
 host = "localhost"
